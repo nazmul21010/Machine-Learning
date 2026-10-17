@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "Name": "Student1",
+    "Department": "CSE",
+    "Session": "2020-21"
+  },
+  {
+    "Id": 2,
+    "Name": "Student2",
+    "Department": "CSE",
+    "Session": "2020-21"
+  },
+  {
+    "Id": 3,
+    "Name": "Student3",
+    "Department": "CSE",
+    "Session": "2020-21"
+  },
+  {
+    "Id": 4,
+    "Name": "Student4",
+    "Department": "CSE",
+    "Session": "2020-21"
+  },
+  {
+    "Id": 5,
+    "Name": "Student5",
+    "Department": "CSE",
+    "Session": "2020-21"
+  },
+  {
+    "Id": 6,
+    "Name": "Student6",
+    "Department": "CSE",
+    "Session": "2020-21"
+  },
+  {
+    "Id": 7,
+    "Name": "Student7",
+    "Department": "CSE",
+    "Session": "2020-21"
+  },
+  {
+    "Id": 8,
+    "Name": "Student8",
+    "Department": "CSE",
+    "Session": "2020-21"
+  },
+  {
+    "Id": 9,
+    "Name": "Student9",
+    "Department": "CSE",
+    "Session": "2020-21"
+  },
+  {
+    "Id": 10,
+    "Name": "Student10",
+    "Department": "CSE",
+    "Session": "2020-21"
+  }
+]
